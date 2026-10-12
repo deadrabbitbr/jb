@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# v2.1 - versão de lançamento de payloads 20261003
+# Host GoldHEN para FW 5.05 do PS4
+
+CACHE:
+# Arquivos principais
+index.html
+exploit.js
+../deadavatar.png
+
+# Payloads GoldHEN
+goldhen.bin
+goldhen10.bin
+
+# Payloads utilitários
+Kernel-Clock.bin
+app2usb.bin
+appcache-install.bin
+backup.bin
+disable-updates.bin
+enable-updates.bin
+ftp.bin
+history-blocker.bin
+ps4debug.bin
+pup-decrypt.bin
+restore.bin
+rif-renamer.bin
+
+NETWORK:
+*
